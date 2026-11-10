@@ -1,0 +1,16 @@
+{
+  "format": "9:16 Vertical Video",
+  "target_duration_range": [45, 65],
+  "dramatic_tone": "High-Stakes Modern Workplace & Empowerment",
+  "pacing_rules": {
+    "hook_window_seconds": 3,
+    "first_conflict_peak_seconds": 15,
+    "product_organic_reveal_seconds": 38,
+    "resolution_cliffhanger_seconds": 55
+  },
+  "aesthetic_anchors": {
+    "lighting": "Cinematic soft diffuse key light, elegant cyan-magenta low-key background separation",
+    "color_palette": ["Rose Gold", "Deep Slate Blue", "Warm Ivory"],
+    "resolution_standard": "1080x1920, 24fps"
+  }
+}

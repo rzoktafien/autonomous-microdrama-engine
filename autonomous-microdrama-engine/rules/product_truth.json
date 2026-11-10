@@ -1,0 +1,20 @@
+{
+  "brand_name": "FemmeEssence",
+  "product_name": "Lumina Radiant Balancing Serum",
+  "verified_claims": [
+    "Menghidrasi kulit hingga 24 jam",
+    "Mengandung Niacinamide 5% dan Ceramide Complex",
+    "Teruji klinis non-comedogenic",
+    "Tekstur seringan air, cepat meresap tanpa rasa lengket"
+  ],
+  "forbidden_claims": [
+    "Menghilangkan jerawat dalam 1 malam",
+    "Memutihkan kulit seketika secara permanen",
+    "Menyembuhkan segala jenis penyakit kulit",
+    "Hasil instan 100% tanpa efek samping"
+  ],
+  "required_disclaimers": [
+    "Hasil dapat berbeda pada setiap individu",
+    "Gunakan sunscreen pada pagi hari"
+  ]
+}
